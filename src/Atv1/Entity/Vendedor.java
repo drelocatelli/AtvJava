@@ -1,4 +1,4 @@
-package Entity;
+package Atv1.Entity;
 
 public class Vendedor extends Funcionario {
 

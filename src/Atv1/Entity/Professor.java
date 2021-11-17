@@ -1,4 +1,4 @@
-package Entity;
+package Atv1.Entity;
 
 public class Professor extends Funcionario {
 

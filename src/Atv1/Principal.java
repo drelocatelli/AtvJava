@@ -1,4 +1,7 @@
-import Entity.*;
+package Atv1;
+
+import Atv1.Entity.Professor;
+import Atv1.Entity.Vendedor;
 
 public class Principal {
 
